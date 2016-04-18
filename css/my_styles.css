@@ -1,0 +1,66 @@
+p{
+  color:black;
+  text-align: left;
+  font-family:sans-serif;
+  font-weight: 100;
+  font-size: 40px;
+  line-height: 80px;
+  text-shadow: 2px 2px white;
+}
+h4{
+  color:black;
+  text-align: left;
+  font-family:sans-serif;
+  font-weight: 100;
+  font-size: 40px;
+  line-height: 80px;
+  text-shadow: 2px 1px teal;
+}
+h3{
+  color:black;
+  text-align: center;
+  font-family:sans-serif;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 80px;
+}
+html, body {
+  margin:0px;
+  padding:0px;
+}
+dl{
+  text-align: left;
+}
+h1{
+  text-align:center;
+  color:black;
+  padding-top:50px;
+  font-family:sans-serif;
+  font-size:90px;
+  line-height: 70px;
+  font-weight: 900;
+  text-shadow: 9px 1px white;
+}
+iframe {
+  position:center
+}
+.business-type{
+  color:black;
+  text-align: center;
+}
+
+.nav-links{
+  font-size: 30px;
+  color:red;
+}
+
+.image-lead{
+  background-image: url('http://rooseveltinstitute.org/wp-content/uploads/2016/03/jukebox-banner-1-1200x600.png');
+  height:400px;
+  width: 1000px; /*explicitly state the pixel height of the image*/
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.museum-info{
+  padding-top: 120px;
+}
